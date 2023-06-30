@@ -1,2 +1,2 @@
 # calculator
-Calculator made with Javascript
+Learning Javascript basics.
